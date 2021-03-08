@@ -26,6 +26,10 @@ HTTP authentication schemes provided in Django Rest Framework.
 
 ## Questions
 
+### Question 0
+
+https://github.com/fredford/authentication-lab
+
 ### Question 1
 
 The "session authentication" is the default used for Django Rest Framework's browsable API.
